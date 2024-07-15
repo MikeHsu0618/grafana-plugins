@@ -1,2 +1,2 @@
 # grafana-plugins
-grafana-plugins
+for grafana-plugins
